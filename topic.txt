@@ -1,0 +1,13 @@
+1. Super global variable
+2. String handling function
+    >strlen
+    >strtoupper
+    >strtolower
+    >ucfirst
+    >ucwords
+    >strpos
+    >str_replace
+    >trim
+    >md5
+    convert string to array explode fucntion
+    convert array to string implode function
